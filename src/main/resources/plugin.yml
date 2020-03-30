@@ -1,7 +1,7 @@
-name: AdvancedSurvival
+name: ${project.name}
 version: ${project.version}
-main: com.hackquest.shenlong55.advancedsurvivalplugin.AdvancedSurvivalPlugin
+main: com.hackquest.shenlong55.survivaloptions.SurvivalOptionsPlugin
 author: shenlong55
-description: A plugin that provides advanced survival options.
+description: ${project.description}
 api-version: 1.15
 commands: null

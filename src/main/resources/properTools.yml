@@ -1,0 +1,66 @@
+MessagePlayer: true
+AxeRequired:
+  Enabled: true
+  Blocks:
+  - LOGS
+  - MUSHROOM_BLOCKS
+  - WOOD_BLOCKS
+Fragile:
+  Enabled: true
+  Blocks:
+  - BUTTONS
+  - FLOWERS
+  - FLOWER_POTS
+  - REDSTONE_BLOCKS
+HammerRequired:
+  Enabled: true
+  Blocks:
+  - BANNERS
+  - BEDS
+  - CARPETS
+  - DOORS
+  - FENCES
+  - GATES
+  - PLANKS
+  - PRESSURE_PLATES
+  - RAILS
+  - SIGNS
+  - TRAPDOORS
+  - WALL_SIGNS
+  - WOODEN_SLABS
+  - WOODEN_STAIRS
+  - WOODEN_UTILITY_BLOCKS
+PickaxeRequired:
+  Enabled: true
+  Blocks:
+  - BLOCKS_OF_ORE
+  - BLUE_ICE
+  - CONCRETE_BLOCKS
+  - CORAL_BLOCKS
+  - GLAZED_TERRACOTTA
+  - ICE
+  - NON_WOODEN_SLABS
+  - NON_WOODEN_STAIRS
+  - NON_WOODEN_UTILITY_BLOCKS
+  - ORE_BLOCKS
+  - PACKED_ICE
+  - STONE_BLOCKS
+  - TERRACOTTA
+  - WALLS
+SharpRequired:
+  Enabled: true
+  Blocks:
+  - BAMBOO
+  - COBWEB
+  - VINE
+ShearsRequired:
+  Enabled: true
+  Blocks:
+  - TRIPWIRE
+ShovelRequired:
+  Enabled: true
+  Blocks:
+  - CONCRETE_POWDERS
+  - DIRT_BLOCKS
+  - SAND_BLOCKS
+  - SNOW_BLOCK
